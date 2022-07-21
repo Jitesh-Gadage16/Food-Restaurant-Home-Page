@@ -1,0 +1,80 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Red Rose", cursive;
+}
+
+/* ------------------------------ */
+/* ---------- NAVBAR ------------ */
+
+
+.container {
+  background:linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('./assets/background.png');
+  background-size: cover;
+  height: 120vh;
+}
+nav.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 15px 0;
+}
+img.logo {
+  height: 40px;
+}
+
+ul.list {
+  display: flex;
+  list-style: none;
+}
+
+li.list-item {
+  padding: 0 15px;
+  color: #FEC232;
+}
+
+button.button-small {
+  font-size: 16px;
+  padding: 10px 25px;
+  background: #ff0000;
+  border: none;
+  color: #fff;
+}
+/* ------------------------------ */
+
+/* ------------------------------ */
+/* ---------- HERO ------------ */  
+
+.hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 85vh;
+}
+
+h1.hero-heading {
+  font-size: 100px;
+  text-align: center;
+  font-weight: 900;
+  font-family: system-ui;
+  padding: 5px 0;
+  color: #FEC232;
+}
+
+.button-large{
+  font-size: 16px;
+    padding: 10px 25px;
+    background: #ff0000;
+    border: none;
+    color: #fff;
+
+}
+.bottom-logo{
+  position: absolute;
+  right: 120px;
+  bottom: 0;
+  height: 100px;
+}
+/* ------------------------------ */
