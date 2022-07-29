@@ -1,4 +1,4 @@
-# Street Style Landing Page ![](https://img.shields.io/badge/Live%20Class%20Project%20-01-green?style=for-the-badge&logo=appveyor)
+# https://live-class-project-2.netlify.app/ ![](https://img.shields.io/badge/Live%20Class%20Project%20-02-green?style=for-the-badge&logo=appveyor)
 
 ![](https://img.shields.io/badge/iNeuron-LCO-brightgreen) ![](https://img.shields.io/static/v1?label=Hitesh-Choudhary&message=Full-Stack-Javascript-Course&color=red)
 
