@@ -23,7 +23,7 @@
 ##   
 
 
- ## 🚀 Project 1 Live Link 
+ ## 🚀 Project 2 Live Link 
  
 - This Project is been Hosted on Netlify. [Project Live Link](https://live-class-project-2.netlify.app/)
 
